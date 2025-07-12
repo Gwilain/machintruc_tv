@@ -1,13 +1,11 @@
-<div style="background-color:black; color:white; text-align:center; padding:10px; font-size:24px;">
-  〰️ machintruc_tv 〰️
-</div>
-
 <h1 style="background-color:black;color:white;text-align:center;">〰️ machintruc_tv 〰️</h1>
  
-machintruc.tv était le site internet de mon activité de motion designer indépendant. C'est en fait le point de départ de ma reconversion. En effet, c'est en développant ce site que je me suis rendu compte que je prenais plus de plaisir à le coder qu'à le designer.
+machintruc.tv était le site internet de mon activité de motion designer indépendant. C'est en fait le point de départ de ma reconversion. 
+En effet, c'est en développant ce site que je me suis rendu compte que je prenais plus de plaisir à le coder qu'à le designer.
 Le site est en ligne à cette adresse :
 
 👉 [www.machintruc.tv](https://www.machintruc.tv)
+
 
 ![animation vague](./screenshots/fullPage.jpg)
 
