@@ -6,7 +6,6 @@ Le site est en ligne à cette adresse :[www.machintruc.tv](https://www.machintru
 ![animation vague](./screenshots/fullPage.jpg)
 
 
-![animation vague](./screenshots/wave.gif)
 <img src="./screenshots/wave.gif" width="500px" />
 
 ### 👨‍💻 Auteur
