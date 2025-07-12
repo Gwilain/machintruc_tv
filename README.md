@@ -7,7 +7,7 @@ Le site est en ligne à cette adresse :[www.machintruc.tv](https://www.machintru
 
 
 ![animation vague](./screenshots/wave.gif)
-
+<img src="./screenshots/wave.gif" width="500px" />
 
 ### 👨‍💻 Auteur
 Ghislain Gillet – Développeur Full Stack en reconversion  
